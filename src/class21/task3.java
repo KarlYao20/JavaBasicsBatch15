@@ -18,6 +18,7 @@ public class task3 {
 
         task3.method("Java");
         task3.method("Java","Python");
+        System.out.println("hello world");
 
     }
 }
